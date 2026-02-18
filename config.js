@@ -1,0 +1,23 @@
+export const nameBand = 'PEDRO SUÁREZ-VÉRTIZ';
+export const nameSongs = [
+	"TE SIENTO DE SÓLO PENSAR", /*1*/
+	"CUENTA CONMIGO", /*2*/
+	"UN VINO, UNA CERVEZA", /*3*/
+	"CUANDO PIENSES EN VOLVER", /*4*/
+	"ME ELEVÉ", /*5*/
+	"Y ES QUE SUCEDE ASÍ", /*6*/
+	"GLOBO DE GAS", /*7*/
+	"LOS GLOBOS DEL CIELO", /*8*/
+	"COMO TE VA MI AMOR", /*9*/
+	"LO OLVIDÉ", /*10*/
+	"DEGENERACIÓN ACTUAL", /*11*/
+	"ME ESTOY ENAMORANDO", /*12*/
+	" MI AUTO ERA UNA RANA", /*13*/
+	"NO PENSÉ QUE ERA AMOR", /*14*/
+	"KANGREJO", /*15*/
+	"SENTIMIENTO INCREIBLE", /*16*/
+	"TREN SEXUAL", /*17*/
+	"NO LLORES MÁS, MOROCHITA", /*18*/
+	"COMO LAS MARIPOSAS", /*19*/
+	"ALQUIEN QUE BESE COMO TU", /*20*/
+]
